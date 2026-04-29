@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/universal-editor-demo-v2/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/universal-editor-demo-v2/"
   ]
 }
